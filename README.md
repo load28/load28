@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi 👋
+
+we are champion 😊
+I am interested in how to share information. And I like to design and build architectures to develop efficiently. ❤
+
+
+
 
 <!--
 **load28/load28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
